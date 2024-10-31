@@ -29,5 +29,5 @@ Polly Editor is a simple yet powerful text editor built with Python, designed fo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Darky-Github/PollyEditor.git
+git clone https://github.com/Darky-Github/Polly-Editor.git
 
