@@ -7,3 +7,21 @@ Polly Editor is a simple yet powerful text editor built with Python, designed fo
 - **Open and Save Files**: Easily open existing files and save your work in multiple formats.
 - **Multiple File Type Support**: Save your documents in various file types, making it compatible with different applications.
 - **Undo and Redo**: Effortlessly revert changes or reapply them as needed.
+
+##Usage
+- Open Polly Editor.
+- Create a new document or open an existing file using the file menu.
+- Edit your text, and use the undo and redo options as needed.
+- Save your work in your desired format.
+
+##Contributing
+- Feel free to fork the repository, make improvements, and submit pull requests. Contributions are welcome!
+
+##Version
+- 0.0.1 - Initial release with basic features.
+
+## Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Darky-Github/PollyEditor.git
