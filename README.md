@@ -21,13 +21,23 @@ Polly Editor is a simple yet powerful text editor built with Python, designed fo
 - 0.0.2 - Removed dark mode, added more file formats.
 
 ## How to run it?
+```bash
+python3 PollyEditor.py
+```
 
-- cd PollyEditor.py
-- python3 PollyEditor.py
+## Installation (More easy)
+- follow the following commands:
+```bash
+pip install tk
+```
+- download the PollyEditor.py file.
+```bash
+python3 PollyEditor.y
+```
 
 ## Installation
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Darky-Github/Polly-Editor.git
-
+```
